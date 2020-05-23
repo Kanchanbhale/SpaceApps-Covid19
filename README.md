@@ -1,6 +1,9 @@
 # SpaceApps-Covid19
 <h1>The SpaceApps Covid-19 Hackathon Challenge by NASA</h1><br>
-https://covid19.spaceappschallenge.org/challenges/covid-challenges
+challenges : https://covid19.spaceappschallenge.org/challenges/covid-challenges <br>
+bootcamp : https://covid19.spaceappschallenge.org/bootcamp/ <br>
+FAQ doc : https://sa-2019.s3.amazonaws.com/media/documents/Space_Apps_FAQ_COVID_.pdf <br>
+Youtube : https://www.youtube.com/channel/UCJAwE_T5mZ6rwMi6zInuKeg <br>
 
 Here is the preview of challenges :<br>
 <br>
