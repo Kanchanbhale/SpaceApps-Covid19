@@ -1,24 +1,25 @@
 # SpaceApps-Covid19
 <h1>The SpaceApps Covid-19 Hackathon Challenge by NASA</h1><br>
+Intro - https://www.spaceappschallenge.org/about/ <br>
+Resources - https://www.spaceappschallenge.org/resources/ <br>
 challenges : https://covid19.spaceappschallenge.org/challenges/covid-challenges <br>
 bootcamp : https://covid19.spaceappschallenge.org/bootcamp/ <br>
-FAQ doc : https://sa-2019.s3.amazonaws.com/media/documents/Space_Apps_FAQ_COVID_.pdf <br>
 Youtube : https://www.youtube.com/channel/UCJAwE_T5mZ6rwMi6zInuKeg <br>
 
 Here is the preview of challenges :<br>
 <br>
 <h2>Quiet Planet</h2>
-The COVID-19 outbreak and the resulting social distancing recommendations and related restrictions have led to numerous short-term changes in economic and social activity around the world, all of which may have impacts on our environment. Your challenge is to use space-based data to document the local to global environmental changes caused by COVID-19 and the associated societal responses.
+<h4>The COVID-19 outbreak and the resulting social distancing recommendations and related restrictions have led to numerous short-term changes in economic and social activity around the world, all of which may have impacts on our environment. Your challenge is to use space-based data to document the local to global environmental changes caused by COVID-19 and the associated societal responses.</h4>
 <br>
 <br>
 
 <h2>Light the Path</h2>
-The COVID-19 pandemic initiated changes in human population movements and activities around the world. Your challenge is to use Earth observations to explore how human activity and regional land-based human movement patterns may have shifted in response to COVID-19.
+<h4>The COVID-19 pandemic initiated changes in human population movements and activities around the world. Your challenge is to use Earth observations to explore how human activity and regional land-based human movement patterns may have shifted in response to COVID-19.</h4>
 <br>
 <br>
 
 <h2>Where There’s a Link, There’s a Way</h2>
-Since the COVID-19 pandemic began, there has been a proliferation of websites and portals developed to share resources about the topic. Your challenge is to find innovative ways to present and analyze integrated, real-time information about the environmental factors affecting the spread of COVID-19.
+<h4>Since the COVID-19 pandemic began, there has been a proliferation of websites and portals developed to share resources about the topic. Your challenge is to find innovative ways to present and analyze integrated, real-time information about the environmental factors affecting the spread of COVID-19.</h4>
 <br>
 <br>
 <h2>A New Perspective</h2>
@@ -42,11 +43,11 @@ Has your time spent indoors increased during the COVID-19 pandemic as a result o
 <br>
 <br>
 <h2>Human Factors</h2>
-The emergence and spread of infectious diseases, like COVID-19, are on the rise. Can you identify patterns between population density and COVID-19 cases and identify factors that could help predict hotspots of disease spread?
+<h4>The emergence and spread of infectious diseases, like COVID-19, are on the rise. Can you identify patterns between population density and COVID-19 cases and identify factors that could help predict hotspots of disease spread?</h4>
 <br>
 <br>
 <h2>The Isolation Solution</h2>
-Social distancing policies enacted the world over during the COVID-19 pandemic have left many people socially isolated. Your challenge is to develop innovative solutions to combat social isolation.
+<h4>Social distancing policies enacted the world over during the COVID-19 pandemic have left many people socially isolated. Your challenge is to develop innovative solutions to combat social isolation.</h4>
 <br>
 <br>
 <h2>A World Away</h2>
